@@ -1,5 +1,9 @@
 Revision history for Perl extension Win32::NetResource.
 
+0.057 Thu Nov 28 2013
+	- Fix required perl version 5.6 -> 5.006.
+	- Add Github repo link to META.yml
+
 0.056 Mon Jun 23 2008
         - Skip tests when not running as an administrator.
 
